@@ -19,4 +19,4 @@ SSL Certificate: The workflow uses Let's Encrypt SSL certificate  /etc/letsencry
 ## Performance Optimization
 Nginx configurations for caching, compression, and performance improvements.
 
-## Replace `yourusername/yourrepository` with your actual GitHub username and repository name. This detailed README provides step-by-step instructions for setting up the environment locally and deploying the website using GitHub Actions.
+#Replace `yourusername/yourrepository` with your actual GitHub username and repository name. This detailed README provides step-by-step instructions for setting up the environment locally and deploying the website using GitHub Actions.
